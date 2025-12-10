@@ -1,16 +1,15 @@
 
-2025-12-10 01:00
+Tags: [[Game Design]] | [[GDC Talk]] | 
+
+2025-12-10 01:09
 
 Source:
 
-<<<<<<< HEAD:'Avowed' Branching Narratives - Shifting from QA Testing to Analyzing.md
-Status: 
-=======
 Status:
 
-Tags: [[Game Design]] | [[GDC Talk]] | 
+Tags: 
 
-## 'Avowed' Branching Narratives - Shifting from QA Testing to Analyzing
+##  'Avowed' Branching Narratives - Shifting from QA Testing to Analyzing
 
 
 
