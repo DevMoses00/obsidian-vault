@@ -5,9 +5,9 @@ Source:
 
 Status:
 
-Tags: 
+Tags: [[Game Design]] | GDC Talk | 
 
-##  Untitled
+## 'Avowed' Branching Narratives - Shifting from QA Testing to Analyzing
 
 
 
