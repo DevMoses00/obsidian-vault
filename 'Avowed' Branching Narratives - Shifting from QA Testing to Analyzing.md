@@ -3,7 +3,7 @@
 
 Source:
 
-Status:
+Status: 
 
 Tags: [[Game Design]] | [[GDC Talk]] | 
 
