@@ -34,19 +34,9 @@
               "icon": "lucide-file",
               "title": "Untitled"
             }
-          },
-          {
-            "id": "645d1fba11869d9b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,7 +199,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "645d1fba11869d9b",
+  "active": "b2a988ff4e61a08e",
   "lastOpenFiles": [
     "Untitled.md",
     "1 - Rough Notes/List Of Things I Want to Learn in 2026.md",
