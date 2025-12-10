@@ -6,8 +6,7 @@ Source:
 <<<<<<< HEAD:'Avowed' Branching Narratives - Shifting from QA Testing to Analyzing.md
 Status: 
 =======
-Status: {}
->>>>>>> origin/main:7 - Unfiled work/'Avowed' Branching Narratives - Shifting from QA Testing to Analyzing.md
+Status:
 
 Tags: [[Game Design]] | [[GDC Talk]] | 
 
